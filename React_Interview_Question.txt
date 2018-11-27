@@ -1,1 +1,5 @@
-What is react?
+=> What is react?
+Ans: React is a javascript library for building user interfaces.
+
+=> Why React?
+Ans: 
